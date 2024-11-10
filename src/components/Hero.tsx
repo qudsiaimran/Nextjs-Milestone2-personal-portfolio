@@ -1,6 +1,5 @@
 import React from 'react'
 import Navbar from "@/components/Navbar";
-import { left } from 'inquirer/lib/utils/readline';
 
 const Hero = () => {
   return (
